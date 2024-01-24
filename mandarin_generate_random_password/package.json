@@ -1,0 +1,15 @@
+{
+  "name": "mandarin_generate_random_password",
+  "version": "1.0.0",
+  "description": "project for unique password generation",
+  "main": "generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MarinkaMartynova/Node_js_GB.git"
+  },
+  "author": "Marinka Mandarinka",
+  "license": "ISC"
+}
